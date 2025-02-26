@@ -2,6 +2,7 @@
 #### Heidi Lantz
 
 Easy EDA is my personal project to create automated EDA for any data you give it!
+
 Whether you are sick of repetitive tasks in your statistical analyses, or you are a possible employer testing if I know what I am doing, 
 Easy EDA is the right package for you! :tada:
 
@@ -21,7 +22,7 @@ and will clean up your dataset such that it is perfectly useable for the Easy ED
 
 Here's an outline/guide of what is contained in this repo:
 
-## Table of Contents
+#### Table of Contents
 - [Overview](#overview)
 - [Usage](#usage)
 - [File Structure](#file-structure)
@@ -68,7 +69,7 @@ library(easy_eda)
 
 ## Contributing
 
-Please check out CONTRIBUTING.md before you make any contributions to the project, thanks!
+Please check out the [Contribution guidelines](CONTRIBUTING.md) before you make any contributions to the project, thanks!
 
 ## License
 
@@ -82,4 +83,4 @@ Badges (test):
 ![R](https://img.shields.io/badge/R-4.2.0-blue?logo=R) 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 
-![GitHub license](https://img.shields.io/github/license/yourusername/yourrepo)
+![GitHub license](https://img.shields.io/github/license/hlan22/easy_eda)
