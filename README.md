@@ -1,5 +1,5 @@
 # Easy EDA
-#### Made by: Heidi Lantz
+#### Created by: Heidi Lantz
 
 ![CRAN](https://img.shields.io/cran/v/ggplot2)
 ![R](https://img.shields.io/badge/R-4.2.0-blue?logo=R) 
@@ -33,7 +33,7 @@ Here's an outline/guide of what is contained in this repo:
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#license-and-crediting)
 
 
 ## Overview 
@@ -59,7 +59,7 @@ library(easy_eda)
 
 ## File Structure
 
-📦 Easy EDA 
+📦 EasyEDA 
  ┣ :open_file_folder: data  
  ┃ ┣ :scroll: sample.csv  
  ┣ :open_file_folder: scripts  
@@ -71,9 +71,11 @@ library(easy_eda)
 
 Please checkout the [Contribution guidelines](CONTRIBUTING.md) before you make any contributions to the project, thanks!
 
-## License
+## License and Crediting
 
 (More info about the license and how you can credit my work here!)
+
+* Credit should be given to my DSCI310 class and specifically [Milestone 1](https://ubc-dsci.github.io/dsci-310-student/project/m1.html) for info about the structuring of the report and reproducibility setup.
 
 * Also, I want to add images to make the README easier to understand
 * Checkout the [goals.md](goals.md) file to see a more thorough description of what I aim to do.
